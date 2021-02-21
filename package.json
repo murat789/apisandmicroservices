@@ -3,6 +3,7 @@
 	"author": "mourad uighur",
 	"description": "project for APIs and microservices",
 	"keywords": ["freecodecamp","apis","microservices"],
+	"license": "free",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
