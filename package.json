@@ -4,6 +4,7 @@
 	"description": "project for APIs and microservices",
 	"keywords": ["freecodecamp","apis","microservices"],
 	"license": "free",
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
