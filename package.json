@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "mourad uighur",
+	"description": "project for APIs and microservices",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
